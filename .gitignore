@@ -1,5 +1,3 @@
-node_modules/
-
-# Ignore sass cache
-.sass-cache/
+node_modules
 docs/
+.sass-cache/
